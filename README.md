@@ -1,5 +1,5 @@
 # Final Project Repository
-* Link to the Shiny App (Report) https://cadej09.shinyapps.io/project-cadej09/*
+*Link to the Shiny App (Report) https://cadej09.shinyapps.io/project-cadej09/*
 
 **INFO-201: _Foundational Skills For Data Science_ (Autumn 2022)**
 
